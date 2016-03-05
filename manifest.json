@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "date": "2016-03-04",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "https://multirom-nexus6p.github.io/multirom-20160302-v33-UNOFFICIAL-angler-STABLE1.zip",
+                    "version": "33",
+                    "type": "multirom",
+                    "size": 6788474,
+                    "md5": "18368090e0785baaf9b8c4684d62cf55"
+                },
+                {
+                    "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-03022016-STABLE1.img",
+                    "version": "mrom20160302-00",
+                    "type": "recovery",
+                    "size": 21762048,
+                    "md5": "f054cc3d90434bc5fbbb8d2d28b81cdd"
+                },
+                {
+                    "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160224.zip",
+                    "version": "Stock 6.0.1-20160224",
+                    "type": "kernel",
+                    "size": 9037509,
+                    "md5": "a1f9dc61c43e05e6c62e46541add3b45"
+                },
+                {
+                    "url": "https://multirom-nexus6p.github.io/multirom_uninstaller.zip",
+                    "version": "",
+                    "type": "uninstaller",
+                    "size": 1705912,
+                    "md5": "4d97353b04c29a656a60692d0fd464e9"
+                }
+            ],
+            "changelogs": [],
+            "name": "angler"
+        }
+    ]
+}
