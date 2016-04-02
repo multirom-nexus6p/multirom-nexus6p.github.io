@@ -21,11 +21,11 @@
                     "md5": "9076535ebd74bdf5ecbcf18bb4b92f2a"
                 },
                 {
-                    "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160224.zip",
-                    "version": "Stock 6.0.1-20160224",
+                    "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160401.zip",
+                    "version": "Stock 6.0.1-20160401",
                     "type": "kernel",
-                    "size": 9037509,
-                    "md5": "a1f9dc61c43e05e6c62e46541add3b45"
+                    "size": 9039349,
+                    "md5": "7e9f9a54a6825d378c5ca2335044e61f"
                 },
                 {
                     "url": "https://multirom-nexus6p.github.io/multirom_uninstaller.zip",
