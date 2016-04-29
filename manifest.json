@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "date": "2016-04-28",
+    "date": "2016-04-29",
     "commands": "",
     "gpg": false,
     "devices": [
@@ -18,7 +18,7 @@
                     "version": "mrom20160428-00",
                     "type": "recovery",
                     "size": 21991424,
-                    "md5": "9879023261b8526dacd20073de5dd2d0"
+                    "md5": "7f532369b6789341c7fda5b0fce1f40f"
                 },
                 {
                     "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160417.zip",
