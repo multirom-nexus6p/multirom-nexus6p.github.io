@@ -14,11 +14,11 @@
                     "md5": "6590b5cc01f2324b8b257720cee429b6"
                 },
                 {
-                    "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-04172016-STABLE6.img",
-                    "version": "mrom20160417-00",
+                    "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-04282016-STABLE6.img",
+                    "version": "mrom20160428-00",
                     "type": "recovery",
-                    "size": 20697088,
-                    "md5": "dfec93ce7a2901fe7dea863617ba5c59"
+                    "size": 21991424,
+                    "md5": "9879023261b8526dacd20073de5dd2d0"
                 },
                 {
                     "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160417.zip",
