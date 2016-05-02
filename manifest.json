@@ -1,17 +1,17 @@
 {
     "status": "ok",
-    "date": "2016-04-29",
+    "date": "2016-05-02",
     "commands": "",
     "gpg": false,
     "devices": [
         {
             "files": [
                 {
-                    "url": "https://multirom-nexus6p.github.io/multirom-20160428-v33-UNOFFICIAL-angler-STABLE6.zip",
+                    "url": "https://multirom-nexus6p.github.io/multirom-20160502-v33-UNOFFICIAL-angler-STABLE6.zip",
                     "version": "33",
                     "type": "multirom",
-                    "size": 6798624,
-                    "md5": "6590b5cc01f2324b8b257720cee429b6"
+                    "size": 6801275,
+                    "md5": "3f1e2b86f3b346a16667034a20627be2"
                 },
                 {
                     "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-04282016-STABLE6.img",
