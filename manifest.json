@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "date": "2016-05-17",
+    "date": "2016-05-20",
     "commands": "",
     "gpg": false,
     "devices": [
@@ -14,11 +14,11 @@
                     "md5": "d466018a8927d4b17231f9994d50d117"
                 },
                 {
-                    "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-05172016-STABLE7.img",
-                    "version": "mrom20160517-00",
+                    "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-20160520-03-STABLE7.img",
+                    "version": "mrom20160520-00",
                     "type": "recovery",
-                    "size": 20697088,
-                    "md5": "950cdb4eebde2eb1944b1c04e61547e5"
+                    "size": 20725760,
+                    "md5": "e607646b3051a534882c818a84a1c8ea"
                 },
                 {
                     "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160514.zip",
